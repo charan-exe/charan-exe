@@ -1,29 +1,37 @@
 # Hi, I'm Nenavath Charan Teja Naik 👋
 
-I am an Electronics and Communication Engineering (ECE) student actively translating academic foundations into practical expertise across digital VLSI architectures, embedded control configurations, and industrial automation telemetry loops.
+ECE Student focused on **Industrial Automation**, Embedded Systems, and Industrial IoT engineering.
+Building practical embedded firmware and telemetry systems using ESP32, sensor interfacing, communication protocols, and automation-focused architectures.
 
-### 🛠️ Core Engineering Focus Areas
-* **ASIC & VLSI Design:** RTL-to-GDSII EDA Flows, Low-Power Optimization, Digital Circuit Synthesis.
-* **Firmware Design:** Embedded C, Bare-metal Microcontroller Programming, Driver Verification.
-* **Control Systems:** Closed-loop PID Algorithms, State Feedback Modeling, System Stability.
-* **Industrial Automation & IoT:** PLC Logic Architectures (Ladder Logic), MQTT/HTTP Communication Stacks.
+## Engineering Focus
+* Embedded Firmware Development
+* Industrial Telemetry Systems
+* ESP32-Based Monitoring Systems
+* MQTT Communication
+* Sensor Interfacing & Data Acquisition
+* PID Control Systems
+* Industrial Automation Fundamentals
+* Embedded Communication Protocols (UART, I2C, SPI)
+---
+## Featured Projects
+### Industrial Telemetry Monitoring Node
+ESP32-based telemetry system for environmental monitoring with MQTT communication, threshold-based alerts, and real-time sensor acquisition.
 
-### 📂 Highlighted Project Repositories
+### PID Motor Control Simulation
+Closed-loop DC motor control simulation focused on PID tuning, transient response analysis, and system stability evaluation.
 
-#### 1. ASIC Design: Low-Power 32-Bit Multipliers (MSME Tool Room)
-* Engineered a 32-bit Vedic Multiplier architecture utilizing the Urdhva Tiryakbhyam algorithm, optimizing partial product generation for high-speed digital signal processing.
-* Minimized dynamic power dissipation by integrating a Custom Select Adder with Common Boolean Logic (CSLA-CBL), achieving a low power consumption profile of 5.43e-04 W.
-* Executed standard RTL-to-GDSII EDA flows to analyze physical design trade-offs, finalising a layout with a total cell area of 3428.73 mm² and a propagation delay of 13.24 ns.
-
-#### 2. Analog-to-Digital Weather Response Actuator via ATmega328P
-* Developed an open-loop environmental response tracking system using an ATmega328P MCU for real-time processing constraints.
-* Integrated an MH-RD conductance sensor with an LM393 comparator to handle hardware-level signal thresholding, offloading processing cycles from the main controller.
-* Programmed precise PWM actuation loops in C++ to execute mechanical payload control scaling safely.
-
-#### 3. Closed-Loop PID Motor Controller (Simulation)
-* Coded a virtual position feedback tracking control architecture for a DC Motor using structured algorithms in C.
-* Evaluated system Transfer Function logic to mitigate transient overshoots and reduce system settling times.
-
-### 🌐 Professional Channels
+### Weather Response Automation System
+ATmega328P-based environmental response system integrating sensor threshold detection and PWM-based actuator control.
+---
+## Current Objective
+Developing industry-oriented embedded and industrial automation projects with structured engineering documentation, debugging workflows, and hardware-focused system design.
+---
+## Tools & Technologies
+Embedded Systems: ESP32, ATmega328P, Embedded C
+Protocols: UART, I2C, SPI, MQTT
+Engineering Areas: Industrial IoT, Telemetry, Control Systems
+Tools: Git, GitHub, VS Code, PlatformIO
+---
+## 🌐 Professional Channels
 * **LinkedIn:** [Charan Tej](https://www.linkedin.com/in/charan-writes/)
 * **Email:** charan.content@gmail.com
