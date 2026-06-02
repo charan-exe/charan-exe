@@ -12,8 +12,6 @@ Building practical embedded firmware and telemetry systems using ESP32, sensor i
 * Industrial Automation Fundamentals
 * Embedded Communication Protocols (UART, I2C, SPI)
 
-          ---
-
 ## 📂 Featured Projects
 
 ### Industrial Telemetry Monitoring Node
@@ -24,18 +22,16 @@ Closed-loop DC motor control simulation focused on PID tuning, transient respons
 
 ### Weather Response Automation System
 ATmega328P-based environmental response system integrating sensor threshold detection and PWM-based actuator control.
-    ---
 
 ## 🎯 Current Objective
 Developing industry-oriented embedded and industrial automation projects with structured engineering documentation, debugging workflows, and hardware-focused system design.
-     ---
 
 ## Tools & Technologies
-**Embedded Systems:** ESP32, ATmega328P, Embedded C
-**Protocols:** UART, I2C, SPI, MQTT
-**Engineering Areas:** Industrial IoT, Telemetry, Control Systems
-**Tools:** Git, GitHub, VS Code, PlatformIO
-      ---
+* **Embedded Systems:** ESP32, ATmega328P, Embedded C
+* **Protocols:** UART, I2C, SPI, MQTT
+* **Engineering Areas:** Industrial IoT, Telemetry, Control Systems
+* **Tools:** Git, GitHub, VS Code, PlatformIO
+
 ## 🌐 Professional Channels
 * **LinkedIn:** [Charan Tej](https://www.linkedin.com/in/charan-writes/)
 * **Email:** charan.content@gmail.com
