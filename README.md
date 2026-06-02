@@ -33,5 +33,5 @@ Developing **industry-oriented embedded** and **industrial automation projects**
 * **Tools:** Git, GitHub, VS Code, PlatformIO
 
 ## 🌐 Professional Channels
-* **LinkedIn:** [Charan Tej](https://www.linkedin.com/in/charan-writes/)
+* **LinkedIn:** [Charan Teja](https://www.linkedin.com/in/charan-writes/)
 * **Email:** charan.content@gmail.com
