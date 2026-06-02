@@ -24,7 +24,7 @@ Closed-loop DC motor control simulation focused on PID tuning, transient respons
 ATmega328P-based environmental response system integrating sensor threshold detection and PWM-based actuator control.
 
 ## 🎯 Current Objective
-Developing industry-oriented embedded and industrial automation projects with structured engineering documentation, debugging workflows, and hardware-focused system design.
+Developing **industry-oriented embedded** and **industrial automation projects** with structured engineering documentation, debugging workflows, and hardware-focused system design.
 
 ## Tools & Technologies
 * **Embedded Systems:** ESP32, ATmega328P, Embedded C
